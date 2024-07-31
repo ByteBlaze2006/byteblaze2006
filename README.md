@@ -9,7 +9,7 @@
 # 技术方面
 - 我的技能：系统封装、计算机维护、HTML+CSS、VisualBasic6等
 - 我擅长于：Office办公软件、Photoshop图像处理、Premiere视音频编辑等
-- 常探索于：52pojie论坛、GitHub社区、CSDN社区、bilibili大学等
+- 常探索于：吾爱破解、GitHub、CSDN、稀土掘金、SegmentFault、bilibili等
 - 正在学习：Linux、Python、C语言等
 
  ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByteBlaze)
